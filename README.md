@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarkhog25
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning Python / C
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me mohammedsnoussi5@gmail.com
 
